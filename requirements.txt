@@ -1,0 +1,8 @@
+pandas==2.1.4
+matplotlib==3.5.2
+spacy==3.7.2
+gensim==4.3.0
+nltk==3.8.1
+scikit-learn==1.4.1.post1
+pyldavis==3.4.1
+wordcloud==1.9.3
