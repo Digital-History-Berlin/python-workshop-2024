@@ -17,7 +17,8 @@ Das Repo enthält:
 
 Folgende Daten und Datensätze finden im Workshop Verwendung:
 
-* Kafka, Franz: Die Verwandlung. Leipzig, 1915. Source der verwendeten TXT-Daten: [Deutsches Textarchiv](https://www.deutschestextarchiv.de/book/view/kafka_verwandlung_1915/?p=1&hl=Kafka)
+* Kafka, Franz: Die Verwandlung. Leipzig, 1915. In: Deutsches Textarchiv <https://www.deutschestextarchiv.de/kafka_verwandlung_1915/1>, abgerufen am 19.02.2024.
+* Fleer, Peter: Tagungsbericht: Digitale Daten in den Geisteswissenschaften. Interdisziplinäre Perspektiven für semantische und strukturelle Analysen, In: H-Soz-Kult, 09.05.2016, <www.hsozkult.de/conferencereport/id/fdkn-125120>.
 * 2983 Reden von Bundeskanzler:innen und anderen Angehörigen der Bundesregierung, die einen Zeitraum von 1982 bis 2017 abdecken und tabellarisch aufbereitet wurden. Der ursprüngliche XML-Datensatz stammt von Adrien Barbaresi und enthält zusätzlich noch Reden der Bundes- und Bundestagspräsident:innen sowie des Auswärtigen Amtes: Barbaresi, Adrien (2018). A corpus of German political speeches from the 21st century, Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), European Language Resources Association (ELRA), pp. 792–797. Source: [German Political Speeches Corpus and Visualization](https://politische-reden.eu/)
 
 
